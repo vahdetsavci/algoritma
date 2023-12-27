@@ -1,0 +1,4 @@
+# Algoritma
+
+## LICENSE
+[MIT](LICENSE)
